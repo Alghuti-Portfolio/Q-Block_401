@@ -9,7 +9,7 @@ The House of Alghutah [First U.S. Prefectural Caucus](https://github.com/Alghuti
 | ------------- | ------------- |
 | ***Sender***  | Alghuti  |
 | ***Amount***  | 377,900 NID  |
-| ***Date***  | 07/2/22 D  |
+| ***Date***  | 07/2/22 |
 
 
 |  | |
