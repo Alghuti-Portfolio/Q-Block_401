@@ -4,11 +4,14 @@ The House of Alghutah [First U.S. Prefectural Caucus](https://github.com/Alghuti
 
 [Self-Executing Contract](https://github.com/Alghuti-Portfolio/QBlock_401/blob/61c258305b97308dd3f76b56ed4114ab72dc7000/Block2.02.pdf)
 
-**Sender:** Alghuti 
+**Sender:** 
+Alghuti 
 
-**Amount:** 377,900 NID
+**Amount:** 
+377,900 NID
 
-**Recipient Account#** 54a1cbf0430b76e5ad5462a53c037c78afb0bf83a54cdfda38e733f63dad6607
+**Recipient Account#** 
+54a1cbf0430b76e5ad5462a53c037c78afb0bf83a54cdfda38e733f63dad6607
 
 **Deposit Block 1.01** 
-- One DD-AU 1324.00 KOi
+One DD-AU 1324.00 KOi
