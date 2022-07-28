@@ -41,8 +41,9 @@
 | Somalia  | 10,108,788  | 99.99  |   10,107,777 | 2.815    |  13,343,320 |  13,341,985 |
 | Tanzania  |  41,885,922 | 35.00 |    14,660,073 |   2.040 |   51,259,289 |   17,940,751 |  
 | Uganda  |  33,240,947 |  12.10 |   4,022,155 |   2.692 |   43,355,032 |  5,245,959 |
+ 
 
-
+<sub> Credit - Houssain Kettani - University of South Carolina Aiken </sub>
 
 #### South Africa
 
