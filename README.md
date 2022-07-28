@@ -5,9 +5,8 @@
 
 | 1 | Trust Territories of Al Hejaz | 2022 estimate |
 |---|---|---|
-| 2 | Population | <sup> 1,999,987,500 </sup> |
-| 3 | Economy | <sup> 31 Trillion ˹Dollars*˺ </sup> |
-
+| 2 | Economy | <sup> 31 Trillion ˹Dollars*˺ </sup> |
+| 3 | Population | <sup> 1,999,987,500 </sup> |
 
 
 ##
@@ -23,7 +22,10 @@
 
 ##
 
-### 2. Population 
+### 2. Economy 
+##
+
+### 3. Population 
 ##
 
 #### East Africa 
@@ -82,7 +84,5 @@
 |  |  |   |   |   |   |  |
 |  |  |   |   |   |   |  |
 
-#### 3. Economy 
-##
 
 
