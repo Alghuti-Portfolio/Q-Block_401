@@ -36,7 +36,14 @@
 | Kenya  | 40,052,337 | 10.00  |  4,005,234 |  2.691 | 52,233,808  | 5,223,381 |
 
 
+#### South Africa
 
+#### Central Africa
+
+
+#### West Africa
+
+#### North Africa
 
 
 
