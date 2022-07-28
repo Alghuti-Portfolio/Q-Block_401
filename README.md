@@ -6,7 +6,7 @@
 | 1 | Trust Territories of Al Hejaz | 2022 estimate |
 |---|---|---|
 | 2 | Population | <sup> 1,999,987,500 </sup> |
-| 3 | Economy | <sup> 31 Trillion </sup> |
+| 3 | Economy | <sup> 31 Trillion ˹Dollars*˺ </sup> |
 
 
 
