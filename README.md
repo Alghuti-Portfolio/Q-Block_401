@@ -5,7 +5,7 @@
 
 ___
 
-***POPULATION***
+<sup> ***POPULATION*** </sup>
 --
 
 | <sup> 2022 estimate </sup> | <sup> 1,999,987,500 </sup> |
