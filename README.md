@@ -28,15 +28,8 @@
 
 
 
-| <sup> 2022 estimate </sup> | <sup> 1,999,987,500 </sup> |
-|---|---|
-___
-
 
 #### 3. Economy 
 ##
 
 
-| <sup> 2022 estimate </sup> | <sup> 31 Trillion </sup> | 
-|---|---|
-___
