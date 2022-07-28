@@ -29,7 +29,7 @@
 ##
 
 #### East Africa - 2020 Census
-|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
+|Country| Population | %  | <sub> EST- Member Census </sub>| APGR% | Population  | <sub> EST - Member </sub>|
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
 | Burundi | 9,282,811  | 1.58  | 146,668 |3.279 | 12,817,394 | 202,515 |
 | Djibouti  | 525,876 | 99.00 |  520,617 |  1.903 | 634,970  | 628,620 |
