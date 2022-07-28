@@ -38,14 +38,27 @@
 
 #### South Africa
 
+
+|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
+|:---|:---:|:--- |:---:|:---:|:---:|:---:|
+
+
 #### Central Africa
+
+|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
+|:---|:---:|:--- |:---:|:---:|:---:|:---:|
 
 
 #### West Africa
 
+|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
+|:---|:---:|:--- |:---:|:---:|:---:|:---:|
+
+
 #### North Africa
 
-
+|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
+|:---|:---:|:--- |:---:|:---:|:---:|:---:|
 
 
 #### 3. Economy 
