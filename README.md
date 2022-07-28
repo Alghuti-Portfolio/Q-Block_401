@@ -11,7 +11,7 @@
 
 ##
 
-### 2 | Population 
+### 2. Population 
 ##
 
 
