@@ -28,7 +28,7 @@
 ### 3. Population 
 ##
 
-#### East Africa 
+#### East Africa - 2020 Census
 |Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
 | Burundi | 9,282,811  | 1.58  | 146,668 |3.279 | 12,817,394 | 202,515 |
