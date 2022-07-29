@@ -23,7 +23,7 @@ The mission of a liaison officer (U.S. ambassador) in the International Service 
 
 If you’re passionate about public service and want to represent the American Islamic Mission around the world, a challenging and rewarding opportunity is waiting for you. While travel is not required, the opportunity to connect with your ancestral origins, experience cultures, customs and people of different nations is truly an opportunity unlike any other.
 
-Explore requirements in the International Service and start your journey with the Mission today. Start by looking at scope of work requirements (will be published in the month August 2022) for a successful roll out schedule, and identify which task is best for you to take part in this truly revolutionary transition.
+Explore requirements in the International Service and start your journey with the Mission today. Start by looking at scope of work requirements (which will be published during the month August 2022) for a successful roll out schedule, and identify which task is best for you to take part in this truly revolutionary transition.
 
 ##
 
