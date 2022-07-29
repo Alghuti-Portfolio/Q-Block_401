@@ -32,7 +32,7 @@ The work you’ll do will have an impact on the world!
 ### 3. Population 
 ##
 
-#### East Africa - 2010 to 2020 Census (Est.)
+### East Africa - 2010 to 2020 Census (Est.)
 |Country| Pop. 2010 | %  | Members**| APGR% | Pop. 2020 | Members**|
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
 | Burundi | 9,282,811  | 1.58  | 146,668 |3.279 | 12,817,394 | 202,515 |
@@ -66,15 +66,6 @@ The work you’ll do will have an impact on the world!
 | Swaziland  |   1,118,754 |   10.00 |    111,875 |    -0.459 |    1,068,451 |   106,845 |
 | Zambia |   12,056,221  |   1.00 |  120,562 | 1.631    |    14,173,372 |   141,734 |
 | Zimbabwe  | 11,566,936   | 1.00   | 115,669    | 1.530    | 13,463,631    | 134,636   |
-
-
-|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
-|:---|:---:|:--- |:---:|:---:|:---:|:---:|
-| |   |   |  | |  |  |
-|  |  |  |   |   |   |  |
-|  |  |  |   |    |  |  |
-|  |  |   |   |   |   |  |
-|  |  |   |   |   |   |  |
 
 
 #### Central Africa
