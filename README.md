@@ -77,34 +77,13 @@ The ***First Phase*** of roll out schedule will include the Development of Recor
 | Zambia |   12,056,221  |   1.00 |  120,562 | 1.631    |    14,173,372 |   141,734 |
 | Zimbabwe  | 11,566,936   | 1.00   | 115,669    | 1.530    | 13,463,631    | 134,636   |
 
-
+##
 ### Central Africa Region - 2010 to 2020 Census (Est.)
-
-|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
-|:---|:---:|:--- |:---:|:---:|:---:|:---:|
-| |   |   |  | |  |  |
-|  |  |  |   |   |   |  |
-|  |  |  |   |    |  |  |
-|  |  |   |   |   |   |  |
-|  |  |   |   |   |   |  |
+##
 
 ### West Africa Region - 2010 to 2020 Census (Est.)
-
-|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
-|:---|:---:|:--- |:---:|:---:|:---:|:---:|
-| |   |   |  | |  |  |
-|  |  |  |   |   |   |  |
-|  |  |  |   |    |  |  |
-|  |  |   |   |   |   |  |
-|  |  |   |   |   |   |  |
+##
 
 ### North Africa Region - 2010 to 2020 Census (Est.)
 
-|Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
-|:---|:---:|:--- |:---:|:---:|:---:|:---:|
-| |   |   |  | |  |  |
-|  |  |  |   |   |   |  |
-|  |  |  |   |    |  |  |
-|  |  |   |   |   |   |  |
-|  |  |   |   |   |   |  |
 
