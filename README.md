@@ -75,7 +75,7 @@ The work you’ll do will have an impact on the world!
 | Zimbabwe  | 11,566,936   | 1.00   | 115,669    | 1.530    | 13,463,631    | 134,636   |
 
 
-#### Central Africa
+### Central Africa Region - 2010 to 2020 Census (Est.)
 
 |Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
@@ -85,7 +85,7 @@ The work you’ll do will have an impact on the world!
 |  |  |   |   |   |   |  |
 |  |  |   |   |   |   |  |
 
-#### West Africa
+### West Africa Region - 2010 to 2020 Census (Est.)
 
 |Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
@@ -95,7 +95,7 @@ The work you’ll do will have an impact on the world!
 |  |  |   |   |   |   |  |
 |  |  |   |   |   |   |  |
 
-#### North Africa
+### North Africa Region - 2010 to 2020 Census (Est.)
 
 |Country| Population | %  | HJZ- Census | APGR% | Population  | HJZ - Census |
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
