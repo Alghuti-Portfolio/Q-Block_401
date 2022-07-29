@@ -26,16 +26,16 @@ The work you’ll do will have an impact on the world!
 ##
 
 
-### 2. Economy 
+### 2. ECONOMY 
 ##
 
-### 3. Population 
+### 3. POPULATION 
 ##
 
-## WEST ASIA
+## West Asia
 
 
-## AFRICA 
+## Africa 
 ### East Africa Region - 2010 to 2020 Census (Est.)
 |Country| Pop. 2010 | %  | Members**| APGR% | Pop. 2020 | Members**|
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
