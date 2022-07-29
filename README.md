@@ -28,13 +28,13 @@ Explore requirements in the International Service and start your journey with th
 ##
 ![Alt text](Images/0B62813A-FAFE-449D-A884-D9EA4300B16C.jpeg)
 
-##
+---
 
 ## 2. ECONOMY 
 
----
+
 ## 3. POPULATION 
-##
+
 
 ### ASIA PACIFIC 
 ##
