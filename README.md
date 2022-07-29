@@ -22,16 +22,21 @@ The ***First Phase*** of roll out schedule will include the Development of Recor
 ##
 
 ### 2. ECONOMY 
-##
 
+---
 ### 3. POPULATION 
 ##
 
 ### ASIA PACIFIC 
----
+##
 ### EURASIA
 
----
+##
+### WEST ASIA (MIDDLE EAST)
+##
+### EUROPE
+
+##
 ### AFRICA 
 ##
 
@@ -103,8 +108,3 @@ The ***First Phase*** of roll out schedule will include the Development of Recor
 |  |  |   |   |   |   |  |
 |  |  |   |   |   |   |  |
 
-
----
-### WEST ASIA (MIDDLE EAST)
----
-### EUROPE
