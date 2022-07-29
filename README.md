@@ -2,7 +2,6 @@
 
 ![Alt text](Images/8C59CF46-0474-4354-A897-1B126A517885.jpeg)
 
-
 | 1 | Trust Territories of Al Hejaz | 2022 estimate |
 |---|---|---|
 | 2 | Economy | <sup> 31 Trillion ˹Dollars*˺ </sup> |
@@ -87,5 +86,6 @@
 |  |  |   |   |   |   |  |
 |  |  |   |   |   |   |  |
 
+![Alt text](Images/C7107C08-7579-4889-B711-F86BB0E0E601.jpeg)
 
 
