@@ -1,14 +1,15 @@
 ## Q-BLOCK | 401 - TRUST TERRITORIES OF AL HEJAZ
 
 ![Alt text](Images/8C59CF46-0474-4354-A897-1B126A517885.jpeg)
+<sub> It is anticipated the U.S. Madinah Mission will maintain “interest sections” (in other states' embassies) in associated member states (as defined in below Charter).</sub> <sub> Interests sections and other representations depicted in the above map (green). </sub>
+
+##
 
 | 1 | Trust Territories of Al Hejaz | 2022 estimate |
 |---|---|---|
 | 2 | Economy | <sup> ***31 Trillion***˹Dollars*˺ </sup> |
 | 3 | Population | <sup> 1,999,987,500 </sup> |
 
-
-##
 | Charter | [US Madinah Mission 2020](https://github.com/Alghuti-Portfolio/QBlock_401/blob/b1ea5a0b9795e8bc39053fba83e722d9cab6c927/2020_HomeCharter5047.pdf) ("***UMM***") |       
 |---|---|
 
