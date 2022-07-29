@@ -19,6 +19,12 @@ We are looking for volunteer International Service Officers to serve as a liaiso
 
 The ***First Phase*** of roll out schedule will include the Development of Record Keeping Systems for Marriage Certificates, Property Deeds, and other Documents for the [US Faith Community](https://github.com/Alghuti-Portfolio/Q-Block_401/blob/41e39609b07e5ddc5f29a114ffac4268c29ad5c4/Files/1080_CallList.csv)
 
+The mission of a liaison officer (U.S. ambassador) in the International Service is to promote peace, support prosperity, and protect both American and Islamic interests and peoples while advancing the the U.S. Madinah Mission.
+
+If you’re passionate about public service and want to represent the American Islamic Mission around the world, a challenging and rewarding opportunity is waiting for you. While travel is not required, the opportunity to connect with your ancestral origins, experience cultures, customs and people of different nations is truly an opportunity unlike any other.
+
+Explore requirements in the International Service and start your journey with the Mission today. Start by looking at scope of work requirements (will be published in the month August 2022) for a successful roll out schedule, and identify which task is best for you to take part in this truly revolutionary transition.
+
 ##
 
 ### 2. ECONOMY 
