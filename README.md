@@ -16,7 +16,7 @@
 ##
 
 ## OVERVIEW 
-The US Madinah Mission will solicit invitations to prospects to serve as liaison (volunteer International Service Officers) at any of the more than 270 embassies, consulates and other diplomatic missions throughout the United States. These missions include countries of the Americas, Africa, Europe and Eurasia, East Asia and Pacific, Middle East and North Africa, and South Asia. The work you’ll do will have an impact on the world!
+The US Madinah Mission will solicit invitations to prospect liaison officer's (volunteer International Service Officers) to serve at any of the more than 270 embassies, consulates and other diplomatic missions throughout the United States. These missions include countries of the Americas, Africa, Europe and Eurasia, East Asia and Pacific, Middle East and North Africa, and South Asia. The work you’ll do will have an impact on the world!
 
 The mission of a liaison officer (ambassador of the UMM) in the International Service is to promote peace, support prosperity, and protect both American and Islamic interests and peoples while advancing the [U.S. Madinah Mission](https://drive.google.com/file/d/1V5uLrfEJb1OdnjQHw21S0uyz3bNvxpny/view?usp=drivesdk).
 
