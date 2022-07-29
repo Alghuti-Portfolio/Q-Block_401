@@ -9,6 +9,14 @@
 
 
 ##
+
+### 1. Trust Territories of Al Hejaz
+
+| Charter | [US Madinah Mission 2020](https://github.com/Alghuti-Portfolio/QBlock_401/blob/b1ea5a0b9795e8bc39053fba83e722d9cab6c927/2020_HomeCharter5047.pdf) ("***UMM***") |       
+|---|---|
+
+##
+
 ### OVERVIEW 
 
 International Service Officers- We are looking for volunteers to serve as a liaison at one of any of the more than 270 embassies, consulates and other diplomatic missions throughout the United States. These missions include countries of the Americas, Africa, Europe and Eurasia, East Asia and Pacific, Middle East and North Africa, and South Asia. 
@@ -17,14 +25,6 @@ The work you’ll do will have an impact on the world!
 
 ##
 
-
-
-### 1. Trust Territories of Al Hejaz
-
-| Charter | [US Madinah Mission 2020](https://github.com/Alghuti-Portfolio/QBlock_401/blob/b1ea5a0b9795e8bc39053fba83e722d9cab6c927/2020_HomeCharter5047.pdf) ("***UMM***") |       
-|---|---|
-
-##
 
 ### 2. Economy 
 ##
