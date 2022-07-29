@@ -35,6 +35,9 @@ The ***First Phase*** of the roll out schedule will include the Development of R
 ---
 ### AFRICA 
 ##
+
+![Alt text](Images/2696C1C6-C91E-41F2-AE10-D29CD3542A5C.jpeg)
+
 ### East Africa Region - 2010 to 2020 Census (Est.)
 |Country| Pop. 2010 | %  | Members**| APGR% | Pop. 2020 | Members**|
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
@@ -101,7 +104,6 @@ The ***First Phase*** of the roll out schedule will include the Development of R
 |  |  |   |   |   |   |  |
 |  |  |   |   |   |   |  |
 
-![Alt text](Images/2696C1C6-C91E-41F2-AE10-D29CD3542A5C.jpeg)
 
 ---
 ### WEST ASIA (MIDDLE EAST)
