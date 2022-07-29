@@ -36,6 +36,7 @@ The work you’ll do will have an impact on the world!
 
 ### EURASIA
 
+---
 ### AFRICA 
 ### East Africa Region - 2010 to 2020 Census (Est.)
 |Country| Pop. 2010 | %  | Members**| APGR% | Pop. 2020 | Members**|
