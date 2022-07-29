@@ -23,8 +23,9 @@ International Service Officers- We are looking for volunteers to serve as a liai
 
 The work you’ll do will have an impact on the world!
 
-##
+Phase- I of the roll out schedule will include the Development of Record Keeping System for Marriage Certificates, Property Deeds  and other Documents for [US Community]()
 
+##
 
 ### 2. ECONOMY 
 ##
