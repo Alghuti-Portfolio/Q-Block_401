@@ -32,6 +32,10 @@ The work you’ll do will have an impact on the world!
 ## 3. POPULATION 
 ##
 
+### ASIA PACIFIC 
+
+### EURASIA
+
 ### AFRICA 
 ### East Africa Region - 2010 to 2020 Census (Est.)
 |Country| Pop. 2010 | %  | Members**| APGR% | Pop. 2020 | Members**|
@@ -102,3 +106,4 @@ The work you’ll do will have an impact on the world!
 ![Alt text](Images/2696C1C6-C91E-41F2-AE10-D29CD3542A5C.jpeg)
 
 ### WEST ASIA
+### EUROPE
