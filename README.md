@@ -32,7 +32,7 @@ The work you’ll do will have an impact on the world!
 ### 3. Population 
 ##
 
-### East Africa - 2010 to 2020 Census (Est.)
+### East Africa Region - 2010 to 2020 Census (Est.)
 |Country| Pop. 2010 | %  | Members**| APGR% | Pop. 2020 | Members**|
 |:---|:---:|:--- |:---:|:---:|:---:|:---:|
 | Burundi | 9,282,811  | 1.58  | 146,668 |3.279 | 12,817,394 | 202,515 |
