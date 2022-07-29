@@ -25,16 +25,16 @@ If you’re passionate about public service and want to represent the American I
 
 Explore requirements in the International Service and start your journey with the Mission today. Start by looking at scope of work requirements for a successful roll out schedule, and identify which task is best for you. The Scope of work will be published during the month August 2022, and will provide instructions on how to become a part of this truly revolutionary transition.
 
-##
-![Alt text](Images/0B62813A-FAFE-449D-A884-D9EA4300B16C.jpeg)
-
----
-
+___
 ## 2. ECONOMY 
 
 
 ## 3. POPULATION 
 
+
+![Alt text](Images/0B62813A-FAFE-449D-A884-D9EA4300B16C.jpeg)
+
+---
 
 ### ASIA PACIFIC 
 ##
