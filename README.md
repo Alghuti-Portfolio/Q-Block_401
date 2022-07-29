@@ -21,7 +21,7 @@
 
 International Service Officers- We are looking for volunteers to serve as a liaison at one of any of the more than 270 embassies, consulates and other diplomatic missions throughout the United States. These missions include countries of the Americas, Africa, Europe and Eurasia, East Asia and Pacific, Middle East and North Africa, and South Asia. The work you’ll do will have an impact on the world!
 
-The ***First Phase*** of the roll out schedule will include the Development of Record Keeping System for Marriage Certificates, Property Deeds  and other Documents for [US Community](https://github.com/Alghuti-Portfolio/Q-Block_401/blob/41e39609b07e5ddc5f29a114ffac4268c29ad5c4/Files/1080_CallList.csv)
+The ***First Phase*** of the roll out schedule will include the Development of Record Keeping Systems for Marriage Certificates, Property Deeds  and other Documents for [US Community](https://github.com/Alghuti-Portfolio/Q-Block_401/blob/41e39609b07e5ddc5f29a114ffac4268c29ad5c4/Files/1080_CallList.csv)
 
 ##
 
