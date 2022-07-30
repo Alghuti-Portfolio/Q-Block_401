@@ -22,7 +22,7 @@ The mission of a liaison officer (ambassador of the UMM) in the International Se
 
 If you’re passionate about public service and want to represent the American Islamic Mission around the world, a challenging and rewarding opportunity is waiting for you. While travel is not required, the opportunity to connect with your ancestral origins, experience cultures, customs and people of different nations is truly an opportunity unlike any other.
 
-Explore requirements in the International Service and start your journey with the Mission today. Start by looking at scope of work requirements for a successful roll out schedule, and identify which task is best for you. The ***First Phase*** of roll out schedule will include the Development of Record Keeping Systems for Marriage Certificates, Property Deeds, and other Documents for the [US Faith Community](Files/1080_CallList.csv). It is anticipated that the schedule will be published by mid-August 2022, and will provide instructions on how to become a part of this truly revolutionary transition.
+Explore requirements in the ***roll out schedule*** and start your journey with the Mission today. Start by looking at scope of work requirements for a successful roll out, and identify which task is best for you. The ***First Phase*** of roll out schedule will include the Development of Record Keeping Systems for Marriage Certificates, Property Deeds, and other Documents for the [US Faith Community](Files/1080_CallList.csv). ***It is anticipated that the schedule will be published by mid-August 2022, and will provide instructions on how to become a part of this truly revolutionary transition.***
 
 ___
 ## 2. ECONOMY 
