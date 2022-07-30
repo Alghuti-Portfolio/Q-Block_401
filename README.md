@@ -1,7 +1,7 @@
 ## Q-BLOCK | 401 - TRUST TERRITORIES OF AL HEJAZ
 
 ![Alt text](Images/289D50E5-5CEB-4636-9C8D-4C94F2BDA388.png)
-<sub> It is anticipated the U.S. Madinah Mission will maintain “interest sections” (in other states' including other associated states' embassies) in [associated member states](2020_HomeCharter5047.pdf).</sub> <sub> Interests sections and other representations (green). </sub>
+<sub> It is anticipated the U.S. Madinah Mission will maintain “interest sections” (in other states' embassies including other associated states') in [associated member states](2020_HomeCharter5047.pdf).</sub> <sub> Interests sections and other representations (green). </sub>
 
 ##
 
