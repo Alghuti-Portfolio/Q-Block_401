@@ -87,6 +87,21 @@ ___
 
 ##
 ### Central Africa Region - 2010 to 2020 Census (Est.)
+
+|Country| Pop. 2010 | %  | Member**  | APGR% | Pop. 2020  | Members** |
+|:---|:---:|:--- |:---:|:---:|:---:|:---:|
+|Cameroon|   |   |  | |  |  |
+|Central African Republic  |  |  |   |   |   |  |
+|Chad|  |  |   |    |  |  |
+|Congo-Brazzaville  |  |   |   |   |   |  |
+|Congo-Kinshasa|  |   |   |   |   |  |
+|Equatorial Guinea|  |   |   |   |   |  |
+|Gabon|  |   |   |   |   |  |
+|Niger|  |   |   |   |   |  |
+|Nigeria|  |   |   |   |   |  |
+|São Tomé & Príncipe |  |   |   |   |   |  |
+
+
 ##
 
 ### West Africa Region - 2010 to 2020 Census (Est.)
