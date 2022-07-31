@@ -100,4 +100,5 @@ ___
 ## FAQ 
 
 Q : Does [H.R. 5665](https://www.congress.gov/117/bills/hr5665/BILLS-117hr5665rfs.pdf) serve a similar purpose as the US Madinah Mission?
+
 A : Click the [link](https://drive.google.com/file/d/1O2XvDtAFoumZ_opt9QvsUlZWOj7TgQnR/view?usp=drivesdk) and read. The US Government has a stain that will not be removed for the remainder of its history. It cannot be considered as a legitimate source of information. Nor does anyone expect any act of good gesture towards the faith community. The damage is beyond repair.
