@@ -97,4 +97,7 @@ ___
 
 ### North Africa Region - 2010 to 2020 Census (Est.)
 
+## FAQ 
 
+Q : Does [H.R. 5665](https://www.congress.gov/117/bills/hr5665/BILLS-117hr5665rfs.pdf) serve a similar purpose as the US Madinah Mission?
+A : Click the link above and read
