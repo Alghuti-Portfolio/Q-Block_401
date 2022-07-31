@@ -101,4 +101,4 @@ ___
 
 Q : Does [H.R. 5665](https://www.congress.gov/117/bills/hr5665/BILLS-117hr5665rfs.pdf) serve a similar purpose as the US Madinah Mission?
 
-A : Click the [link](https://drive.google.com/file/d/1O2XvDtAFoumZ_opt9QvsUlZWOj7TgQnR/view?usp=drivesdk) and read. The US Government crimes against the Islamic communities both domestically and internationally has stained the U.S. Government for the remainder of its history. It has no place in the community, not will it be considered as a legitimate source of any good will, No rational person anticipates it. The damage is beyond repair.
+A : Click the [link](https://drive.google.com/file/d/1O2XvDtAFoumZ_opt9QvsUlZWOj7TgQnR/view?usp=drivesdk) and read. The US Government crimes against the Islamic communities both domestically and internationally has stained the Government for the remainder of its history. It has no place in the community, not will it be considered as a legitimate source of any good will, No rational person anticipates it. The damage is beyond repair.
