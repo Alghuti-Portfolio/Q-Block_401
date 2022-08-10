@@ -16,7 +16,6 @@
 
 ## OVERVIEW 
 
-![Alt text](Images/0B62813A-FAFE-449D-A884-D9EA4300B16C.jpeg)
 
 The US Madinah Mission will solicit invitations to prospect liaison officer's (volunteer International Service Officers) to reach out to any of the more than 270 embassies, consulates and other diplomatic missions throughout the United States. These missions include countries of the Americas, Africa, Europe and Eurasia, East Asia and Pacific, Middle East and North Africa, and South Asia. The work you’ll do will have an impact on the world!
 
@@ -25,6 +24,8 @@ The mission of a liaison officer (ambassador of the UMM) in the International Se
 If you’re passionate about public service and want to represent the American Islamic Mission around the world, a challenging and rewarding opportunity is waiting for you. While travel is not required, the opportunity to connect with your ancestral origins, experience cultures, customs and people of different nations is truly an opportunity unlike any other.
 
 Start by exploring the work break down assignments for a successful roll out, and identify which tasks may be achieved with your particular skill set and capabilities. The ***First Phase*** of the roll out schedule will include the Development of Record Keeping Systems for Marriage Certificates, Property Deeds, and other Documents for the [US Faith Community](Files/1080_CallList.csv). ***It is anticipated that the schedule will be published by the end of 2022, and will provide instructions on how to become a part of this truly revolutionary transition.***
+
+![Alt text](Images/0B62813A-FAFE-449D-A884-D9EA4300B16C.jpeg)
 
 ___
 ## 2. ECONOMY 
