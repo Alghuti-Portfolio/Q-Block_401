@@ -14,6 +14,7 @@
 
 ##
 
+For N. America Schedule [Click Here](https://github.com/Alghuti-Portfolio/Q-Block_68)
 ## OVERVIEW 
 
 
